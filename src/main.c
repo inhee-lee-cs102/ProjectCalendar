@@ -1,6 +1,6 @@
 /* 
  *     main.c
- Written by Inhee Lee
+ Done by Inhee Lee
  */
 
 
