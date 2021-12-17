@@ -1,4 +1,14 @@
+#include <stdio.h>
 #include "calendar.h"
+#include <string.h>
+
+int montharray[20];
+int dayarray[20];
+char namearray[20][20];
+int month;
+int day;
+int i;
+char name[20];
 
 //Invalid Month Check//
 int getmonth(int month){
