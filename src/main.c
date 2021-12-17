@@ -1,8 +1,9 @@
 #include "calendar.h"
+#include <stdio.h>
+#include <string.h>
 
 //Main Function//
-int main(void) {
-  int code(void);
+int main() {
   printf("\t Calender: Final C Project \n");
   int count = 0;
   printf("Input 1 to Enter Event and 2 to Recall Event. Enter 3 to End Program: \n");
@@ -25,6 +26,5 @@ int main(void) {
   scanf("%d", &option);
   }
 
-
-  return 0;
+return 0;
 }
