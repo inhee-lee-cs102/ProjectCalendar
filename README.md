@@ -8,4 +8,4 @@ The user can either input integers 1, 2, and 3 to enter an event, recall an even
 
 This program uses 2D arrays as data structures for the user to store in. 
 
-https://youtu.be/JYJAF3iWJ9g
+YouTube link: https://youtu.be/JYJAF3iWJ9g
