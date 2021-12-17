@@ -1,3 +1,9 @@
+/* 
+ *     main.c
+ Written by Inhee Lee
+ */
+
+
 #include "calendar.h"
 #include <stdio.h>
 #include <string.h>
