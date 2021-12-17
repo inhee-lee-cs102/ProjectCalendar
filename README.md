@@ -1,4 +1,4 @@
-#Project Calendar
+##Project Calendar
 
 by Hamza Malick and Inhee Lee for CS 102 Section C Fall 2021
 
